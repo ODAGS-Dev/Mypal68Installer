@@ -1,5 +1,5 @@
 <auto-update-program version="1.0">
   <program new-version="68.13b" name="Mypal68">
-    <download-url value="http://github.com/ScratchApps/Mypal68Installer/releases/download/68.13b/mypalnolp.exe" />
+    <download-url value="http://objects.githubusercontent.com/github-production-release-asset-2e65be/646530626/bec701d2-7f80-4ea7-894e-d33d42057345?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230531%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230531T195424Z&X-Amz-Expires=300&X-Amz-Signature=6022eb2d814729bbfecefa9da7e6d0f9424052d5624cca63335d3dd889819021&X-Amz-SignedHeaders=host&actor_id=103536027&key_id=0&repo_id=646530626&response-content-disposition=attachment%3B%20filename%3Dmypalnolp.exe&response-content-type=application%2Foctet-stream" />
   </program>
 </auto-update-program>
