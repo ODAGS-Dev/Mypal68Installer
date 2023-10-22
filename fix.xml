@@ -1,5 +1,5 @@
 <auto-update-program version="1.0">
-  <program new-version="1.16.00" name="Automated update tool">
+  <program new-version="1.16.00" name="Autoupdator">
     <download-url value="" />
   </program>
 </auto-update-program>
