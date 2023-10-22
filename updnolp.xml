@@ -1,5 +1,5 @@
 <auto-update-program version="1.0">
-  <program new-version="68.13b" name="Mypal68">
-    <download-url value="http://raw.githubusercontent.com/ScratchApps/Mypal68Installer/main/upd.url" />
+  <program new-version="68.14b" name="Mypal68">
+    <download-url value="https://github.com/ScratchApps/Mypal68Installer/releases/download/68.13b/mypalnolp.exe" />
   </program>
 </auto-update-program>
